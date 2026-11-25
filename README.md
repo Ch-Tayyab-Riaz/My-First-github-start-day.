@@ -1,5 +1,5 @@
-# My First github start day.
-Focue on the study now.
-start the code with basic.
-java programming language.
+# My First github start day./n
+Focue on the study now./n
+start the code with basic./n
+java programming language./n
 java project.
